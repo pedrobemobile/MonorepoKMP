@@ -1,0 +1,3 @@
+[submodule "androidApp"]
+	path = androidApp
+	url = git@github.com:pedrobemobile/AndroidKMP.git
